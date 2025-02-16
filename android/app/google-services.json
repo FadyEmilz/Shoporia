@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493409686562",
+    "project_id": "shoporia-b80ca",
+    "storage_bucket": "shoporia-b80ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493409686562:android:0fc34822bb9f5d94fc667b",
+        "android_client_info": {
+          "package_name": "com.example.shophoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1VrZGILNjn1Sq8-f5ZX8ZByithI92QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
